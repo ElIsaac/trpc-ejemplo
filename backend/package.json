@@ -16,7 +16,11 @@
   },
   "dependencies": {
     "@trpc/server": "^10.21.1",
+    "@typegoose/typegoose": "^11.0.2",
     "express": "^4.18.2",
-    "morgan": "^1.10.0"
+    "mongoose": "^7.0.5",
+    "morgan": "^1.10.0",
+    "typegoose": "^5.9.1",
+    "zod": "^3.21.4"
   }
 }

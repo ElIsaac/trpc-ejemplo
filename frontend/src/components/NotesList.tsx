@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { trpc } from '../trpc'
 
 function NotesList() {
